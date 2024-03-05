@@ -1,17 +1,18 @@
-## Visualization-Portfolio
+# Visualization-Portfolio
 
 Hey there!
 
 Welcome to my portfolio page! Here you will find three distinct sections showcasing my data visualization skills across BI tools like Tableau and Power BI, while the final section presents my analytical projects crafted in Python. 
 
 Dive in and explore!
+_________________________________________________________________________________________________________________________________________________________________________________________
 
-#TABLEAU
+## TABLEAU
 
 https://public.tableau.com/app/profile/khushbu.patel6960/vizzes
 _________________________________________________________________________________________________________________________________________________________________________________________
 
-#POWER BI
+## POWER BI
 
 The below images show a Retail sales overview dashboard created in Power BI
 
@@ -20,7 +21,7 @@ The below images show a Retail sales overview dashboard created in Power BI
 
 _________________________________________________________________________________________________________________________________________________________________________________________
 
-#PYTHON
+## PYTHON
 
 Australia Job Forecasting: (https://github.com/khushbuupatel/Australia-Job-Forecasting) <br>
 Mice Protein classification: (https://github.com/khushbuupatel/Mice-Protein-Classification/blob/master/MiceProteinClassification.ipynb) <br>
