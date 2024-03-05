@@ -1,2 +1,7 @@
 # Visualization-Portfolio
-Links to my visuals
+
+Tableau:
+
+Power BI:
+
+Python visuals:
