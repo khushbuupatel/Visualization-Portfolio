@@ -1,8 +1,8 @@
 # Visualization-Portfolio
 
-Hey there!
+Hey Hey Hey!
 
-Welcome to my portfolio page! Here you will find three distinct sections showcasing my data visualization skills across BI tools like Tableau and Power BI, while the final section presents my analytical projects crafted in Python. 
+Welcome to my portfolio page! Here you will find three distinct sections showcasing my data visualization skills across BI tools like Tableau and Power BI, while the final section presents some of my analytical projects crafted in Python. 
 
 Dive in and explore!
 _________________________________________________________________________________________________________________________________________________________________________________________
@@ -23,8 +23,8 @@ ________________________________________________________________________________
 
 ## PYTHON
 
-Australia Job Forecasting: (https://github.com/khushbuupatel/Australia-Job-Forecasting) <br>
-Mice Protein classification: (https://github.com/khushbuupatel/Mice-Protein-Classification/blob/master/MiceProteinClassification.ipynb) <br>
-LinkedIn Analytics: (https://github.com/khushbuupatel/Linkedin-Analytics) <br>
+- Australia Job Forecasting: (https://github.com/khushbuupatel/Australia-Job-Forecasting) <be>
+- LinkedIn Analytics: (https://github.com/khushbuupatel/Linkedin-Analytics) <br>
+- Mice Protein classification: (https://github.com/khushbuupatel/Mice-Protein-Classification/blob/master/MiceProteinClassification.ipynb) <br>
 
 _________________________________________________________________________________________________________________________________________________________________________________________
