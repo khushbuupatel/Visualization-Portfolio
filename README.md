@@ -14,7 +14,7 @@ ________________________________________________________________________________
 
 ## POWER BI
 
-The below images show a Retail sales overview dashboard created in Power BI
+The below images show a Retail sales overview dashboard created in Power BI. I have also included the .pbix file in this repository.
 
 ![Return Analysis Dashboard](https://github.com/khushbuupatel/Visualization-Portfolio/blob/main/Return_Analysis.PNG?raw=true)
 ![Profitability Dashboard](https://github.com/khushbuupatel/Visualization-Portfolio/blob/main/Profitability.PNG)
